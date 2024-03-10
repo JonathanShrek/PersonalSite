@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jonathan Shreckengost</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://jonathanshreckengost.com/posts/</link>
     <description>Recent content in Posts on Jonathan Shreckengost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Mar 2024 20:09:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 20:09:52 -0500</lastBuildDate><atom:link href="https://jonathanshreckengost.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating a Laravel App on a Linux Server</title>
-      <link>http://localhost:1313/posts/migrating-laravel-app-linux/</link>
+      <link>https://jonathanshreckengost.com/posts/migrating-laravel-app-linux/</link>
       <pubDate>Sat, 09 Mar 2024 20:09:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/migrating-laravel-app-linux/</guid>
+      <guid>https://jonathanshreckengost.com/posts/migrating-laravel-app-linux/</guid>
       
       <description>So you are running a Laravel web application on a Linux VPS and need to migrate it to another Linux VPS. This migration would be fairly trivial if your Laravel application was running in a container of some sort, but ideal circumstances aren&amp;rsquo;t always reality.
 In this post I will be explaining the steps that I have personally taken to migrate a Laravel application from our production Linux VPS to a new Ubuntu Linux VPS.</description>

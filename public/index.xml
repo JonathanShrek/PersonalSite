@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Jonathan Shreckengost</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jonathanshreckengost.com/</link>
     <description>Recent content in Home on Jonathan Shreckengost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Mar 2024 23:24:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 23:24:27 -0500</lastBuildDate><atom:link href="https://jonathanshreckengost.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating a Laravel App on a Linux Server</title>
-      <link>http://localhost:1313/posts/migrating-laravel-app-linux/</link>
+      <link>https://jonathanshreckengost.com/posts/migrating-laravel-app-linux/</link>
       <pubDate>Sat, 09 Mar 2024 20:09:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/migrating-laravel-app-linux/</guid>
+      <guid>https://jonathanshreckengost.com/posts/migrating-laravel-app-linux/</guid>
       
       <description>So you are running a Laravel web application on a Linux VPS and need to migrate it to another Linux VPS. This migration would be fairly trivial if your Laravel application was running in a container of some sort, but ideal circumstances aren&amp;rsquo;t always reality.
 In this post I will be explaining the steps that I have personally taken to migrate a Laravel application from our production Linux VPS to a new Ubuntu Linux VPS.</description>
@@ -21,10 +21,10 @@ In this post I will be explaining the steps that I have personally taken to migr
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://jonathanshreckengost.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://jonathanshreckengost.com/pages/about/</guid>
       
       <description>Who I am My name is Jonathan Shreckengost, I am a full-stack Software Engineer for an economics research and consulting firm. I have five years of experience in the software development industry, and I&amp;rsquo;m currently focused on full-stack web applications and Linux servers.
 Outside of work I like to create music. I am a guitar player. I enjoy creating rock/metal music. As I get some of my work published I will also share here to my site.</description>
@@ -33,10 +33,10 @@ Outside of work I like to create music. I am a guitar player. I enjoy creating r
     
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/pages/recipes/</link>
+      <link>https://jonathanshreckengost.com/pages/recipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/recipes/</guid>
+      <guid>https://jonathanshreckengost.com/pages/recipes/</guid>
       
       <description>Some stuff </description>
       
