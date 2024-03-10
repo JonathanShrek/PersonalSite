@@ -1,5 +1,5 @@
 +++
-title = 'Migrating a Laravel App on a Linux Server'
+title = 'Migrating a Laravel App Between Linux Servers'
 date = 2024-03-09T20:09:52-05:00
 draft = false
 +++
