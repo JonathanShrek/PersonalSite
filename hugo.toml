@@ -56,10 +56,15 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
+    pageRef="photos"
+    name = 'Photos'
+    url = '/photos/'
+    weight = 30
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.en-gb.params]
   sitename = "Jonathan Shreckengost"
@@ -69,7 +74,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # You can take a look at layouts/index.html for more information.
   description = "My personal site to share the latest happenings in my life."
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']

@@ -1,0 +1,25 @@
+<style>
+    .image-gallery {overflow: none;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; padding: 2px; transition: transform 0.1s, box-shadow 0.3s;}
+    .image-gallery li:hover {transform: scale(1.1); box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); z-index: 1;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+{{ $dir := string (.Get "gallery_dir") }}
+<ul class="image-gallery">
+{{ $images := (readDir (print "/assets" $dir)) }}
+{{ $sortedImages := sort $images "ModTime" }}
+{{ range $sortedImages }}
+  {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
+  {{- $imageurl := printf "%s/%s" $dir .Name -}}
+  {{- $imagetitle := index (split .Name ".") 0 -}}
+    <li>
+      <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}">
+        <img src="{{ ($image.Fill "300x300 q100").Permalink }}" alt="{{ $imagetitle }}">
+      </a>
+    </li>
+  
+{{ end }}
+</ul>
