@@ -21,6 +21,12 @@ A few of the technologies that I use:
 * Neovim
 * Visual Studio
 
+## Projects
+A few of the projects I have worked on:
+
+* Contributor to the Pandas library.
+* Contributor to Pigasus. An open source intrustion detection and prevention system.
+
 ## Goals
 
 The goal of this site is to share the current happenings in my life. Everything from my current thoughts, pictures, music, and even great recipes.
