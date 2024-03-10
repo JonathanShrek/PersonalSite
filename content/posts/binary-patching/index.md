@@ -7,9 +7,9 @@ draft = false
 I recently took an interest in patching binary files and began doing some research over the topic. This research led me to a few YouTube videos and other various articles. In this blog post I will attempt to summarize my findings into a simple and informative lesson.
 
 ### Dependencies
-* [Ghidra](https://ghidra-sre.org/){:target="_blank"}
-* [gcc](https://gcc.gnu.org/){:target="_blank"}
-* [Example code](https://github.com/JonathanShrek/Intro-Binary-Patching-Example/tree/master){:target="_blank"}
+* [Ghidra](https://ghidra-sre.org/)
+* [gcc](https://gcc.gnu.org/)
+* [Example code](https://github.com/JonathanShrek/Intro-Binary-Patching-Example/tree/master)
 
 ### Patching a Binary File
 To begin, download and clone the above dependencies. Next, move to the directory where you cloned the example code file and then move into the "src" folder. Here you will find a .cpp file and a binary that was built from this .cpp file. The binary was built using the following command:
