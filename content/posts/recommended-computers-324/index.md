@@ -1,7 +1,7 @@
 +++
 title = 'Recommended Computer Equipment'
 date = 2024-03-12T20:11:08-04:00
-draft = true
+draft = false
 toc = false
 +++
 
@@ -9,11 +9,9 @@ As a professional nerd, I have had many people ask me for my opinion on various 
 
 ## Gaming Desktops
 
-Let's start with one of the most common computer purchase questions that I get asked, "Should I buy this pre-built gaming pc??". I'm not the biggest fan of pre-built gaming PC's just because I feel you can get more for your money by just building your own. Let's take a look at just a few pre-built gaming desktops and compare those with a few custom build options.
+Let's start with one of the most common computer questions that I get asked, "Should I buy this pre-built gaming pc??". The answer is no. More often than not you can get more bang for your buck by just building your own. By building your own gaming PC you can also get exactly what you want, and you don't have to settle for things like you might have to with a pre-built gaming PC.
 
-Of course, it all comes down to what you want in your setup. If you want to game at 4k resolution and maintain 60fps then you will obviously need a much beefier setup than if you were just wanting to game at 1080p at 30fps. For the sake of simplicity, I will just focus on a basic 1080p 60fps+ gaming PC.
-
-*insert image*
+A good site to piece together your own gaming PC build is [PcPartPicker](https://pcpartpicker.com/).
 
 ## Basic Desktops
 
