@@ -2,6 +2,7 @@
 title = 'Why You Should Run'
 date = 2024-03-14T19:12:36-04:00
 draft = false
+toc = false
 +++
 
 ![Running](running.jpg)
