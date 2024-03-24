@@ -61,10 +61,15 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/photos/'
     weight = 30
   [[Languages.en-gb.menu.main]]
+    pageRef="recipes"
+    name = 'Recipes'
+    url = '/recipes/'
+    weight = 40
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 40
+    weight = 50
 
 [Languages.en-gb.params]
   sitename = "Jonathan Shreckengost"
