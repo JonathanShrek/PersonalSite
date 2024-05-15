@@ -28,4 +28,4 @@ A few of the projects I have worked on:
 
 ## Goals
 
-The goal of this site is to share the current happenings in my life. Everything from my current thoughts, pictures, music, and even great recipes.
+The purpose of my site is to offer a glimpse into the ongoing tapestry of my life. From the musings of my mind to captivating snapshots, from the melodies of my music to delectable recipes, it's a space where every facet of my journey finds expression.
