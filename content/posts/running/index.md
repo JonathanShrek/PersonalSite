@@ -9,8 +9,6 @@ toc = false
 
 Since my sophomore year of high school, I've been all about running for exercise. There's just something about that feeling of achievement after a solid run, especially when you've got your favorite tunes blasting and the sun shining down. Today, I finally hit the pavement for my first outdoor run of the year – it's about time, right? 😁
 
-## The Pros of Running
-
 Running isn't just about fitness though; it's like a mini mental vacation. Stepping outside, leaving the stress behind, and just letting your mind wander while you pound the pavement can be incredibly refreshing. Sure, it might not feel like it at first, especially if you're new to it, but once you get into the groove, the stress just melts away.
 
 Plus, running's a great way to meet people. Back in high school, I used to run solo, but eventually, folks started joining me, and before I knew it, I was on the cross-country and track teams. You never know – you might find a running buddy or stumble upon a local running group that's just your speed.
