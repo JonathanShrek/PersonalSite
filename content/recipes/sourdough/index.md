@@ -7,7 +7,7 @@ draft = false
 ![sourdough](sourdough.jpg)
 
 Recently I have been diving into the world of bread baking. It all started after watching a 
-Jacques Pépin video where he showed how to make a basic loaf of bread. I made the loaf from the video a few times, and then I was hooked. I then began to set my sights on making a loaf of sourdough bread, but was intimidated because of the starter. Finally, I had worked up enough courage and created my own starter. I then needed a recipe, so I began to search around on YouTube and eventually found one that I liked enough to give a shot.
+Jacques Pépin video where he showed how to make a basic loaf of bread. I made the loaf from the video a few times, and then I was hooked. I then began to set my sights on making a loaf of sourdough bread, but was intimidated because of the starter. Finally, I had worked up enough courage and created my own starter. I then needed a recipe, so I began to search around on YouTube and eventually found [one](https://youtu.be/kp3ZYkzbg9Q) that I liked enough to give a shot.
 
 This recipe will create 2 loaves. Half the measurements for a single loaf.
 
