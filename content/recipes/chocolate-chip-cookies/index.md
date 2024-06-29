@@ -1,8 +1,8 @@
-+++
-title = 'Chocolate Chip Cookies'
-date = 2024-03-24T18:00:31-04:00
-draft = false
-+++
+---
+title: 'Chocolate Chip Cookies'
+date:  2024-03-24T18:00:31-04:00
+draft: false
+---
 
 ![cookie](chocolate_chip_cookie.jpg)
 

@@ -1,8 +1,8 @@
-+++
-title = 'Sourdough'
-date = 2024-03-24T16:24:18-04:00
-draft = false
-+++
+---
+title: 'Sourdough'
+date: 2024-03-24T16:24:18-04:00
+draft: false
+---
 
 ![sourdough](sourdough.jpg)
 
